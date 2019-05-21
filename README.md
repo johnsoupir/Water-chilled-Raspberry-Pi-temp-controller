@@ -26,5 +26,5 @@ If you somehow came here without seeing the video, it can be found on my YouTube
 
 
 
-I do not claim that this is the best of most efficient code, but hey, it worked! Feel free to improve this code in any way you wish. If you do, please include a link to the original project so people can find the rest of the information about this project. 
+I do not claim that this is the best or most efficient code, but hey, it worked! Feel free to improve this code in any way you wish. If you do, please include a link to the original project so people can find the rest of the information about this project. 
 
