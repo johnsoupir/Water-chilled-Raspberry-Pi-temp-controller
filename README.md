@@ -22,9 +22,3 @@ Proto board - For soldering everything to.
 Various wires and pin headers - for connecting everything.
 
 
-If you somehow came here without seeing the video, it can be found on my YouTube channel: https://www.youtube.com/channel/UCjEhg90nUsyxH6BprUDUW3w
-
-
-
-I do not claim that this is the best or most efficient code, but hey, it worked! Feel free to improve this code in any way you wish. If you do, please include a link to the original project so people can find the rest of the information about this project. 
-
